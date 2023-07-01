@@ -19,6 +19,12 @@ function App() {
           </Routes>
         </Router>
       </ShopContextProvider>
+      <div className="App1">
+        <center>
+          <h2>Welcome To DhananjayMart</h2>
+          <p>click on product for shop</p>
+        </center>
+      </div>
     </div>
   );
 }

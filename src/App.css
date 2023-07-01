@@ -9,3 +9,10 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.App1 {
+  background-color: antiquewhite;
+  height: auto;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
